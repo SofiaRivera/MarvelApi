@@ -1,0 +1,87 @@
+body{
+    background-image: url("marvelfondo.jpg");
+    background-repeat: repeat;  
+    background-size: 10%;
+
+     
+}
+
+#universoMarvel{
+    font-family: fantasy;
+    color: #e2001a;
+}
+#logoNav{
+    width: 10%;
+    height: 10%;
+}
+
+h3{
+    text-align: center;
+}
+
+#resultados{
+    display: block;
+    align-items: center;
+    margin: 14%;
+    border-radius: 10px;
+    padding : 2%;
+    background-color: #ffffffc7;
+}
+
+.text-center-fluid{
+    background-color: #ffffffc7;
+    margin: 14%;
+    border-radius: 10px;
+    padding : 2%;
+}
+
+
+
+.carrusel{
+    align-items: center;
+    margin: 5%;
+    margin-top: 1%;
+}
+
+
+nav.navbar{
+    background-color: #ffffff !important
+}
+
+  .navbar .navbar-nav .nav-link {
+    border-radius: .25rem;
+    margin: 0 0.25em;
+  }
+  .navbar .navbar-nav .dropdown-menu {
+    background-color: #e51b32;
+    border-color: #cc192e;
+  }
+
+  .navbar .navbar-nav .dropdown-menu .dropdown-item:hover,
+  .navbar .navbar-nav .dropdown-menu .dropdown-item:focus,
+  .navbar .navbar-nav .dropdown-menu .dropdown-item.active {
+    color: black;
+    background-color: #e51b32;
+  }
+  .navbar .navbar-nav .dropdown-menu .dropdown-divider {
+    border-top-color: #cc192e;
+  }
+  .navbar .navbar-nav .nav-item.active .nav-link,
+  .navbar .navbar-nav .nav-item.active .nav-link:hover,
+  .navbar .navbar-nav .nav-item.active .nav-link:focus,
+  .navbar .navbar-nav .nav-item.show .nav-link,
+  .navbar .navbar-nav .nav-item.show .nav-link:hover,
+  .navbar .navbar-nav .nav-item.show .nav-link:focus {
+    color: #000000;
+    background-color: #e51b32;
+  }
+  .navbar .navbar-toggle {
+    border-color: #e51b32;
+  }
+  .navbar .navbar-toggle:hover,
+  .navbar .navbar-toggle:focus {
+    background-color: #e51b32;
+  }
+
+
+
